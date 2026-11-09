@@ -142,6 +142,6 @@ Para usar com os seus próprios dados, edite as variáveis em `src/app.py`:
 
 ## 👤 Autor
  
-**Renato Santos** — [@renatovsantos](https://github.com/renatovsantos)
+**Renato Vieira Santos** — [@renatovsantos](https://github.com/renatovsantos)
  
 Projeto desenvolvido como parte do **P0 – Primeiro Fluxo LLM da Softex**.
