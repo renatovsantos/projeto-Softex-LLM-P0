@@ -139,3 +139,9 @@ Para usar com os seus próprios dados, edite as variáveis em `src/app.py`:
 | `instrucao` | Define o papel do assistente e o formato da resposta            |
 | `mensagem`  | Texto com os dados a serem organizados (alunos, valores, datas) |
 | `model`     | Modelo Gemini usado na chamada a `generate_content`             |
+
+## 👤 Autor
+ 
+**Renato Santos** — [@renatovsantos](https://github.com/renatovsantos)
+ 
+Projeto desenvolvido como parte do **P0 – Primeiro Fluxo LLM da Softex**.
